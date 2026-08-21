@@ -202,7 +202,7 @@ API:et skall innehålla en array av objekt som ser ut enligt följande:
 ```
 {
     id : 1,
-    task : 'Hitta pengar',
+    task : 'Din mamma är så...',
     done : false
 }
 ```
