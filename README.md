@@ -1,4 +1,4 @@
-# Vecka 35 : AWS Lambda Bootcamp
+# Vecka 43 : AWS Lambda Bootcamp
 
 ## Innan du sätter igång
 
